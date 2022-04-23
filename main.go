@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	dependencyinjection "learn-go-with-tests/9_dependency-injection"
+	dependencyinjection "learn-go-with-tests/09_dependency-injection"
 )
 
 func main() {
