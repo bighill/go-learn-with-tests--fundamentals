@@ -1,4 +1,4 @@
-package pointerserrors
+package main
 
 import "testing"
 

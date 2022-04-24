@@ -1,4 +1,4 @@
-package dependencyinjection
+package main
 
 import (
 	"fmt"
@@ -19,6 +19,6 @@ func GreeterHandler(w http.ResponseWriter, r *http.Request) {
 	Greet(w, "world")
 }
 
-func ServeGreeter() {
+func main() {
 	http.ListenAndServe(":5000", http.HandlerFunc(GreeterHandler))
 }
