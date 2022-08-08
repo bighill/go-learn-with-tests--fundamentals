@@ -1,5 +1,13 @@
 # Tutorial
 
+## Learn Go with Tests
+
+[https://github.com/quii/learn-go-with-tests/blob/master/README.md](https://github.com/quii/learn-go-with-tests/blob/master/README.md)
+
+This repo holds samples from the `Go fundamentals` sections
+
+## Usage
+
 In this repo, each section has its own `main` package.
 But most won't run anything because the real learning is in the tests for each section.
 
@@ -14,10 +22,6 @@ Run all tests
 ```
 go test ./...
 ```
-
-## Learn Go with Tests
-
-[https://github.com/quii/learn-go-with-tests/blob/master/README.md](https://github.com/quii/learn-go-with-tests/blob/master/README.md)
 
 ## General getting started
 
